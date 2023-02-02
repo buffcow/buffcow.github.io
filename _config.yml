@@ -41,7 +41,7 @@ about_me_description: <ul><li>A teen who loves code and graduated in software en
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: false
+show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -104,6 +104,7 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+      -  yangyiyu08.github.io
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
