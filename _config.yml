@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Yiyu Yang
+title: Sites · yangyiyu08-qingyu
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -33,7 +33,7 @@ twitter_username:
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Who Am I
-about_me_description: A teen who loves code and graduated in software engineering
+about_me_description: A teen who loves code and graduated in software engineering.<br/>Good at <strong>Ai, Fw, Fl, Br, Ae, Pr, Id, Ps, Word, Excel, Access, PowerPoint, Outlook Express <strong> and other software installation and uninstallation, familiar with CSS, JavaScript, PHP, ASP, C, C++, C#, The spelling of words such as Java, Ruby, Perl, Lisp, python, Objective-C, ActionScript, Pascal, spss, sas, etc. Familiar with switching on and off of Windows, Linux, Mac, Android, IOS, WP8 and other operating systems.
 # about_me_description: This will be displayed under the title.
 # about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
@@ -78,7 +78,7 @@ os_projects_title: Things I Contributed To Open Source
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: true
+show_contact_card: false
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
