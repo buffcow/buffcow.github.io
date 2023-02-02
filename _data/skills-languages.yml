@@ -21,7 +21,7 @@
   weight: 3
 
 - name: SASS
-  weight: 3
+  weight: 2
 
 - name: Java
   weight: 5
@@ -33,13 +33,16 @@
   weight: 1
 
 - name: Kotlin
-  weight: 4
+  weight: 5
 
 - name: C++
-  weight: 2
+  weight: 3
 
 - name: Ruby
   weight: 2
 
+- name: Shell
+  weight: 2
+
 - name: Smali
-  weight: 4
+  weight: 3
