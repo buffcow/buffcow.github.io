@@ -6,28 +6,28 @@
 #   weight: 5
 
 - name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
-  weight: 4
-
-- name: Node
   weight: 1
 
-- name: Flutter
-  weight: 2
+- name: Xposed
+  weight: 5
 
-- name: Express
+- name: React
+  weight: 1
+
+- name: Node
   weight: 3
+
+- name: Jetpack
+  weight: 4
+
+- name: Vue
+  weight: 4
 
 - name: Django
   weight: 1
 
 - name: Spring
-  weight: 2
+  weight: 3
 
-- name: Rails
-  weight: 4
+- name: Magisk
+  weight: 3
