@@ -78,11 +78,12 @@ os_projects_title: Things I Contributed To Open Source
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: false
+show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
+contact_description: <ul><li>MT bbs<a class="highlight-link" href="https://bbs.binmt.cc/?6693" target="_blank" rel="noreferrer"> @qingyu </a></li><br> <li>Coolapk<a class="highlight-link" href="http://www.coolapk.com/u/1188320" target="_blank" rel="noreferrer"> @yangyiyu08 </a></li><br> <li>Telegram<a class="highlight-link" href="https://t.me/yangyiyu08" target="_blank" rel="noreferrer"> @yangyiyu08 </a></li></ul>
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+# contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
