@@ -105,6 +105,7 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+      -  buffcow
       -  buffcow.github.io
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
